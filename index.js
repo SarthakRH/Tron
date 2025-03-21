@@ -2,7 +2,7 @@ const Alexa = require('ask-sdk-core');
 const fetch = require('node-fetch');
 
 // Store API Key in environment variables for security
-const GOOGLE_GEMINI_API_KEY = process.env.GEMINI_API_KEY||'AIzaSyCPwfLTYiqR3H9fybfg9jarh4c3bp13FB4';
+const GOOGLE_GEMINI_API_KEY = process.env.GEMINI_API_KEY||'YOUR GOOGLE GEMINI API KEY';
 
 // Function to process requests through Gemini
 async function processGeminiRequest(userinput) {
