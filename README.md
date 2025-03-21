@@ -124,3 +124,11 @@ This is not just a project.
 5. **Voice Response:**
    - Alexa speaks back Gemini’s witty roast, insight, or riddle — directly to the user.
    - If needed, Alexa reprompts to keep the session alive.
+  
+
+**How to get google gemini api key**
+1.Visit this website :https://aistudio.google.com/apikey
+2.sign in using you gmail 
+3.Click on Create API key
+4.copy it and past it in the code
+5.valha there you go all set for the magic to happen 
